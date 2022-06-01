@@ -51,6 +51,8 @@ class Game(tk.Frame):
             row=0)
         self.score_label = tk.Label(score_frame, text="0", font=c.SCORE_FONT)
         self.score_label.grid(row=1)
+        
+        #kjvnskjvnkjdr
 
 
     def start_game(self):
